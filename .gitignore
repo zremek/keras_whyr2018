@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/WhyR2018_keras-master/*
+/logs/*
+keras_whyr2018.Rproj
+ships_best.hdf5
+ships_model.hdf5
+boston_model.hdf5
